@@ -1,0 +1,9 @@
+BarQ operates a chain of bar kiosks in airports, railway and bus stations. Every BarQ provides limited seating and offers a menu of beverages (both alcoholic and non-alcoholic) 
+and simple food items (both hot and cold). Each BarQ has a small kitchen that usually serves from 5pm to 2 am. BarQ has been fairly successful so far, but their new senior leadership 
+team is looking to become data driven: decisions should be based on data and analytics rather than gut feel. As such, they have installed a point-of-sales (POS) system across all 
+their bar kiosks in order to capture data, but are struggling to make sense of it and how to use it. They need your help. ​
+
+
+​You will find 2 pages of sample transaction records enclosed that BarQ has provided at the end of the PowerPoint presentation. One page contains samples of transaction headers, while 
+the other contains samples of transaction details. Additionally, two CSV files with two years of transactional data are included in the interview package as well. Please refer to the 
+data dictionary for the data structure and field definitions.
